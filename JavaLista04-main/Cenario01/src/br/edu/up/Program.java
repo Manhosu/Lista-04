@@ -9,6 +9,35 @@ import br.edu.up.view.LivroView;
             public static void main(String[] args){
                 Livro livro1 = new Livro();
                 livro1.setCodigo("1598FHK");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
                 livro1.setTitulo("Core Java 2");
                 livro1.setAutores("Cay S. Horstmann e Gary Cornell");
                 livro1.setIsbn("0130819336");
